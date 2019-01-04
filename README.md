@@ -33,4 +33,4 @@ vagrant up
 
 # Usage
 
-Access admin interface at http://localhost:8080 and using default credentials: `user: admin` and `password: admin`
+Access admin interface at http://localhost:8080 using default credentials: `user: admin` and `password: admin`
