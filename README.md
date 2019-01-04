@@ -1,10 +1,11 @@
+# vagrant-jenkins
 Vagrant setup of a jenkins server VM based on a centos 7 box: https://app.vagrantup.com/centos/boxes/7
 
 Uses the following ansible roles :
 - [geerlingguy.java](https://github.com/geerlingguy/ansible-role-java)
 - [geerlingguy.jenkins](https://github.com/geerlingguy/ansible-role-jenkins)
 
-#Usage:
+# Usage:
 
 [Install VirtualBox](https://www.virtualbox.org)
 
