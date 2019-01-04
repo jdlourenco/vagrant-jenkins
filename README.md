@@ -11,9 +11,11 @@ Uses the following ansible roles :
 
 [Install vagrant](https://www.vagrantup.com/downloads.html)
 
+[Install ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html?extIdCarryOver=true&sc_cid=701f2000001OH7YAAW#installing-the-control-machine)
+
 Clone repo
 ```
-git clone git@github.com:jdlourenco/vagrant-jenkins.git
+git clone https://github.com/jdlourenco/vagrant-jenkins.git
 ```
 
 cd to main project dir:
