@@ -5,7 +5,7 @@ Uses the following ansible roles :
 - [geerlingguy.java](https://github.com/geerlingguy/ansible-role-java)
 - [geerlingguy.jenkins](https://github.com/geerlingguy/ansible-role-jenkins)
 
-# Usage:
+# Setup:
 
 [Install VirtualBox](https://www.virtualbox.org)
 
@@ -31,4 +31,6 @@ Run vagrant up
 vagrant up
 ```
 
-Access admin interface at localhost:8080 and using default credentials: `user: admin` and `password: admin`
+# Usage
+
+Access admin interface at http://localhost:8080 and using default credentials: `user: admin` and `password: admin`
